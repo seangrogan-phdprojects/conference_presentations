@@ -1,5 +1,15 @@
 # Conference Presentation Repository
 
+June 2019 [**Dynamically Routing UAVs in the Aftermath of a Severe Tornado**](https://github.com/seangrogan-phdprojects/conference_presentations/blob/master/2019-06-20-prolog/2019prolog.pdf)\
+With Robert Pellerin, Michel Gamache\
+PROLOG 2019 Project Management and Logistics\
+IAE Metz School of Management, Université de Lorraine, Metz, France
+
+May 2019 [**Dynamically Routing UAVs in the Aftermath of a Severe Tornado**](https://github.com/seangrogan-phdprojects/conference_presentations/blob/master/2019-05-opt-days/2019jopt.pdf)\
+With Robert Pellerin, Michel Gamache\
+Optimization Days 2019\
+HEC Montreal, Montreal, Quebec, Canada
+
 November 2018 [**A Framework for Using Drones After a Tornado**](https://github.com/seangrogan-phdprojects/conference_presentations/blob/master/2018-11-INFOMS/V2-A-Framework-For-Using-Drones-After-A-Tornado.pdf)\
 With Robert Pellerin, Michel Gamache\
 INFORMS Annual Meeting 2018\
